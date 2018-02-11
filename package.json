@@ -1,0 +1,29 @@
+{
+  "name": "generator-muserv",
+  "version": "0.0.1",
+  "description": "muserv is a microservice development framework",
+  "files": [
+    "app",
+    "roueter"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodefoundry/muserv.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^2.0.2"
+  },
+  "author": "Biju Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodefoundry/muserv/issues"
+  },
+  "homepage": "https://github.com/kodefoundry/muserv#readme"
+}
